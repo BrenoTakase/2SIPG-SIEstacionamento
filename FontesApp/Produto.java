@@ -1,5 +1,5 @@
-// Classe que guarda os produtos e serviços vendidos pelo estacionamento
-
+// Classe de produtos vendidos no estacionamento
+// Exemplos: Troca de óleo, revisão, estacionamento ...
 public class Produto {
 
 	private double peso;
